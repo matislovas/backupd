@@ -1,0 +1,3 @@
+[submodule "test/libs/acutest"]
+	path = test/libs/acutest
+	url = git@github.com:mity/acutest.git
